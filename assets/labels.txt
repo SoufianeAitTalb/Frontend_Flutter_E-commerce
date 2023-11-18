@@ -1,0 +1,5 @@
+0 Watch
+1 Shoes
+2 T-Shirt
+3 Purse
+4 Pants
